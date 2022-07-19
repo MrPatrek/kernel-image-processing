@@ -1,4 +1,4 @@
-# java-kernel-image-processing
+# Kernel Image Processing in Java
 
 An image processing application written in Java supporting *sequential*, *parallel* and *distributed* modes of execution. It is achieved by doing a convolution between the kernel and an image. You can read more about this technique [here](https://en.wikipedia.org/wiki/Kernel_(image_processing)).
 
