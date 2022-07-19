@@ -4,4 +4,4 @@ An image processing application written in Java supporting *sequential*, *parall
 
 The **parallel** mode was achieved by using *Thread* class. The **distributred** mode was achieved by using *MPJ Express* library (which is an implementation of MPI in Java), so you shoud install it to your system before you start working with the project *(I used Version 0.44 of MPJ Express, which was the latest one at the moment of publication)*.
 
-For more details, you may read my report about the application [**HERE**]().
+For more details, you may read my report about the application [**HERE**](https://github.com/MrPatrek/java-kernel-image-processing/blob/main/Oleksandr-Babenko-kernel-image-processing-report.pdf).
